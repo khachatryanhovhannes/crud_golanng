@@ -35,7 +35,7 @@ A simple CRUD (Create, Read, Update, Delete) API for managing posts using Go and
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/yourusername/crud_go.git
+    git clone https://github.com/khachatryanhovhannes/crud_golanng.git
     cd crud_go
 2. Create a .env file in the root directory and configure your database settings:
    ```bash
