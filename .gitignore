@@ -1,0 +1,16 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+/build/
+
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+.env
+
+*.log
